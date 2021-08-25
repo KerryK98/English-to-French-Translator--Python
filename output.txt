@@ -1,0 +1,49 @@
+Kerry Kanhai
+Student number: 
+
+Improvements: Verb conjugation, reverse dictionary, gender recognition, glitch (double periods) removed, different domain (vacation based), comments, vocabulary more than 50 words, plural
+
+
+***************************************Output #1 (demonstates verb conjugation with regular verbs)***************************************
+English Sentence: 'They like the view'
+Translation: 'Elles aiment la vue.'
+
+***Example shows how regular verb changes with the pronoun***:
+English Sentence: 'They like the view'
+Translation: J'aime la vue.
+
+***Another example - 'prender' which is in the dictionary is changed to 'prendent' because of the pronoun***
+English: They take the boat tour tomorrow.
+Translation: Elles prendent le beateau tour demain.
+
+
+
+
+**************************************Output #2 (demonstrates gender recognition of nouns)***********************************************
+***Since boat in French is masculine, the masculine version of 'the' is used***
+English: The boat tour was spectacular.
+Translation: Le beateau tour etait spectaculaire.
+
+***Since city is feminine, the feminine version of 'le' is used***
+English: We are going on a tour of the city tomorrow.
+Translation: Nous sont aller sur un tour de la ville demain.
+
+
+
+
+*************************************Output #3 (demonstrates plural)*****************************************
+***Demonstrating plural and number conversion***:
+English: Can you book 1 room?.
+Translation: Pouvez vous reservez un chambre?.
+
+***Second example***
+English: Can you book 3 rooms?.
+Translation: Pouvez vous reservez trois chambres?.
+
+
+
+
+*************************************Output #4 (reverse translation)*****************************************
+***Translating from French to English. The dictionary is not perfect and doesn't work with all types of sentences but with some***:
+French: Il pouvez prender le taxi.
+Translation: He can take the taxi.
